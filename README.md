@@ -71,7 +71,7 @@
 ![Comment Section](https://github.com/SumanBlswas/blogspot/assets/112753516/2ff8a22d-e10b-46f3-bd41-a5ec82071375)
 
 
-## Our Learnings
+## My Learnings
 
 On this journey I faced many issues, but I keep motivated myself with patience.
 
