@@ -4,22 +4,14 @@
 # Deployed Backend in Aws EC2
 # Welcome to BlogSpot
 
-<h3>StyloZone is a leading e-commerce company that maintains an online Fashion store packed with both classic and trendy Clothes, beauty product and more at affordable prices. These Products can be easily ordered online by the customers, who will get them delivered with many discounts that come and go.This is a collaborative Project from Masai School in the Construct Week With the 5 team members within 5 Days.
+<h3>BlogSpot is a leading blogging website. Witness the magic of storytelling unfold here, where every post is a doorway to a new dimension of thought. This Project Fully Built by me within 24 Hours.
 </h3>
 
-# Deployed URL 👉 [Click here](https://frontend-nu-hazel-89.vercel.app/)
+# Deployed URL 👉 [Click here](http://cuvette-suman.s3-website.eu-north-1.amazonaws.com/)
 
-## Our Team Members
+## Member
 
 - Suman Biswas(Team Leader) (My Linkedin profile :- https://www.linkedin.com/in/suman-biswas-158022248/)
-
-- Rishi Raj Bhardwaj (My Linkedin profile :- https://www.linkedin.com/in/rishi-raj-bhardwaj/)
-
-- Ayush Kaushik (My Linkedin profile :- https://www.linkedin.com/in/ayush-kaushik-81418a250/)
-
-- Satyam Kumar Jha (My Linkedin profile :- https://www.linkedin.com/in/satyam-kumar-5843b2227/)
-
-- Kartik Jain (My Linkedin profile :- https://in.linkedin.com/in/kartikmickey)
   <br/>
 
 <br/>
@@ -31,7 +23,7 @@
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
    <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
- <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"  align="center" alt="MongoDB" />
+ <img src="https://img.shields.io/badge/mysql-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white"  align="center" alt="MySQL" />
  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"  align="center" alt="ExpressJS" />
  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"  align="center" alt="NodeJS" />
  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="Redux" />
@@ -42,7 +34,7 @@
   <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"  align="center" alt="vercel"/>
+    <img src="https://img.shields.io/badge/aws-%23000000.svg?style=for-the-badge&logo=aws&logoColor=white"  align="center" alt="aws"/>
 </div>
 <br/>
 
@@ -99,19 +91,17 @@
 
 ## Our Learnings
 
-On this journey we faced many issues, but we keep motivated each other with patience.
+On this journey I faced many issues, but I keep motivated myself with patience.
 
-- We all learned how to read and understand the code of other team members.
+- I learned how to write more efficient and clean code.
 
-- We learned how to write more efficient and clean code.
+- Even though I also learned how to plan a project and how to execute it step by step.
 
-- Even though We also learned how to plan a project and how to execute it step by step.
+- By this Project I have learned how to improve the productivity.
 
-- By this Project we have learned how to collaborate and communicate with team effectively and improving the productivity.
+- I also got a glimpse of using GitHub for the version control.
 
-- We also got a glimpse of using GitHub for the version control.
-
-Source Code(GitHub link):- https://github.com/SumanBlswas/spicy-yak-7891
+Source Code(GitHub link):- https://github.com/SumanBlswas/blogspot
 
 ## Show your support
 
