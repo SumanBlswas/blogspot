@@ -84,10 +84,8 @@ On this journey I faced many issues, but I keep motivated myself with patience.
 - I also got a glimpse of using GitHub for the version control.
 
 ## Source Code(GitHub link):- 
-       - Frontend: 
-             -https://github.com/SumanBlswas/blogspot
-       - Backend:
-             -https://github.com/SumanBlswas/blogspot_sql
+       - Frontend: https://github.com/SumanBlswas/blogspot
+       - Backend: https://github.com/SumanBlswas/blogspot_sql
 
 ## Show your support
 
