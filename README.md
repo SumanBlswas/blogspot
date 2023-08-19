@@ -12,7 +12,7 @@
 
 ## Some Key Notes
 
-- React + TypeScript + Vite For Frontent
+- React + TypeScript + Vite For Frontend
 - Deployed Frontend to Aws S3
 - Node + Express + MySql + JWT + bCrypt For Backend
 - Deployed Backend to Aws EC2
