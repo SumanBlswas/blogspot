@@ -1,5 +1,8 @@
-# React + TypeScript + Vite
-# Welcome to StyloZone
+# React + TypeScript + Vite For Frontent
+# Deployed Frontend in Aws S3
+# Node + Express + MySql + JWT + bCrypt For Backend
+# Deployed Backend in Aws EC2
+# Welcome to BlogSpot
 
 <h3>StyloZone is a leading e-commerce company that maintains an online Fashion store packed with both classic and trendy Clothes, beauty product and more at affordable prices. These Products can be easily ordered online by the customers, who will get them delivered with many discounts that come and go.This is a collaborative Project from Masai School in the Construct Week With the 5 team members within 5 Days.
 </h3>
