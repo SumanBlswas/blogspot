@@ -23,11 +23,15 @@ const AddBlog = () => {
   const handleAddBlog = async () => {
     try {
       const data = { topic, title, description: content, image: imageLink };
-      const blog = await axios.post(`${import.meta.env.VITE_PORT}/blogs`, data, {
-        headers: {
-          Authorization: localStorage.getItem("token"),
-        },
-      });
+      const blog = await axios.post(
+        `${import.meta.env.VITE_PORT}/blogs`,
+        data,
+        {
+          headers: {
+            Authorization: localStorage.getItem("token"),
+          },
+        }
+      );
       if (blog.status === 200) {
         toast({
           title: "Post uploaded",
@@ -36,7 +40,7 @@ const AddBlog = () => {
           duration: 5000,
           isClosable: true,
         });
-        console.log(blog);
+        console.error(blog);
       }
     } catch (error) {
       toast({
@@ -70,7 +74,11 @@ const AddBlog = () => {
             Add a New Blog
           </Heading>
           <Box w={"full"}>
-            <Box display={"flex"} gap={5}>
+            <Box
+              display={"flex"}
+              gap={5}
+              flexWrap={{ base: "wrap", sm: "nowrap" }}
+            >
               <FormControl mb={4}>
                 <FormLabel fontSize={"lg"} fontWeight={"black"}>
                   Topic
@@ -96,7 +104,11 @@ const AddBlog = () => {
                 />
               </FormControl>
             </Box>
-            <Box display={"flex"} gap={5}>
+            <Box
+              display={"flex"}
+              gap={5}
+              flexWrap={{ base: "wrap", sm: "nowrap" }}
+            >
               <FormControl mb={4}>
                 <FormLabel fontSize={"lg"} fontWeight={"black"}>
                   Image Link

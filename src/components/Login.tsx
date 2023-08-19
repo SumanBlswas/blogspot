@@ -47,7 +47,7 @@ const Login = () => {
         navigate("/");
       }
     } catch (error) {
-      console.log(error);
+      console.error(error);
       toast({
         title: "Wrong Credentials.",
         description: `Check your Email and password before login`,

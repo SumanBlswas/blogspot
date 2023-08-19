@@ -27,11 +27,12 @@ const CommentSection = ({ id }: { id: string | undefined }) => {
   useEffect(() => {
     const getComment = async () => {
       try {
-        const comment = await axios.get(`${import.meta.env.VITE_PORT}/comments/${id}`);
+        const comment = await axios.get(
+          `${import.meta.env.VITE_PORT}/comments/${id}`
+        );
         setComments(comment.data);
-        console.log(comment);
       } catch (error) {
-        console.log(error);
+        console.error(error);
       }
     };
     getComment();
@@ -63,10 +64,9 @@ const CommentSection = ({ id }: { id: string | undefined }) => {
           }
         );
         setComments((prevComments) => [...prevComments, comment.data]);
-        console.log(comment.data);
       }
     } catch (error) {
-      console.log(error);
+      console.error(error);
     }
   };
 
@@ -77,7 +77,13 @@ const CommentSection = ({ id }: { id: string | undefined }) => {
       </Text>
       <Divider my={4} />
       <Flex align="center">
-        <Avatar size="md" name="User" color={"white"} mr={3} />
+        <Avatar
+          size="md"
+          name="User"
+          color={"white"}
+          mr={3}
+          display={{ base: "none", sm: "flex" }}
+        />
         <Textarea
           placeholder="Add a comment..."
           value={newComment}

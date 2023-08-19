@@ -42,7 +42,7 @@ const BlogPage: React.FC = () => {
         setData(blogResponse.data);
         setLoading(false);
       } catch (error) {
-        console.log(error);
+        console.error(error);
         setLoading(false);
       }
     };
@@ -57,7 +57,7 @@ const BlogPage: React.FC = () => {
         );
         setDataTwo(blogsResponse.data);
       } catch (error) {
-        console.log(error);
+        console.error(error);
       }
     };
     getBlogs();
@@ -123,7 +123,7 @@ const BlogPage: React.FC = () => {
         <Box
           p={3}
           pt={0}
-          display="flex"
+          display={{ base: "none", sm: "none", md: "flex" }}
           w={"20%"}
           flexDir="column"
           gap={3}
@@ -161,9 +161,9 @@ const BlogPage: React.FC = () => {
             ))}
           </Box>
         </Box>
-        <Box pl={3} h="full" w={"80%"}>
+        <Box pl={3} h="full" w={{ base: "full", sm: "full", md: "80%" }}>
           <Heading
-            fontSize="3xl"
+            fontSize={{ base: "xl", sm: "3xl" }}
             textAlign="start"
             fontFamily="mono"
             fontWeight="bold"
@@ -198,7 +198,7 @@ const BlogPage: React.FC = () => {
               borderRadius="xl"
             />
             <Box
-              display="flex"
+              display={{ base: "none", sm: "none", md: "none", lg: "flex" }}
               justifyContent="center"
               flexDirection="column"
               placeItems="center"

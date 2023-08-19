@@ -45,11 +45,14 @@ const Account = () => {
   useEffect(() => {
     const getData = async () => {
       try {
-        const data = await axios.get(`${import.meta.env.VITE_PORT}/users/account`, {
-          headers: {
-            Authorization: localStorage.getItem("token"),
-          },
-        });
+        const data = await axios.get(
+          `${import.meta.env.VITE_PORT}/users/account`,
+          {
+            headers: {
+              Authorization: localStorage.getItem("token"),
+            },
+          }
+        );
         setData(data.data);
 
         const response = await axios.get(
@@ -62,7 +65,7 @@ const Account = () => {
         );
         setBlog(response.data);
       } catch (error) {
-        console.log(error);
+        console.error(error);
       }
     };
     getData();
@@ -92,7 +95,7 @@ const Account = () => {
         All Your Blogs
       </Heading>
       <Divider />
-      <Box display={"flex"} gap={5} justifyContent={"left"} flexWrap={"wrap"}>
+      <Box display={"flex"} gap={5} justifyContent={"center"} flexWrap={"wrap"}>
         {blog.map((el, id: number) => (
           <Link key={id} to={`/blog/${el.id}`}>
             <Box display={"flex"} gap={3} flexDirection={"column"}>
