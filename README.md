@@ -30,7 +30,6 @@
  <img src="https://img.shields.io/badge/mysql-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white"  align="center" alt="MySQL" />
  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"  align="center" alt="ExpressJS" />
  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"  align="center" alt="NodeJS" />
- <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="Redux" />
 </div>
 <br/>
 
