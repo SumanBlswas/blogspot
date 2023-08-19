@@ -1,7 +1,3 @@
-# React + TypeScript + Vite For Frontent
-# Deployed Frontend in Aws S3
-# Node + Express + MySql + JWT + bCrypt For Backend
-# Deployed Backend in Aws EC2
 # Welcome to BlogSpot
 
 <h3>BlogSpot is a leading blogging website. Witness the magic of storytelling unfold here, where every post is a doorway to a new dimension of thought. This Project Fully Built by me within 24 Hours.
@@ -13,6 +9,14 @@
 
 - Suman Biswas(Team Leader) (My Linkedin profile :- https://www.linkedin.com/in/suman-biswas-158022248/)
   <br/>
+
+## Some Key Notes
+
+-React + TypeScript + Vite For Frontent
+-Deployed Frontend in Aws S3
+-Node + Express + MySql + JWT + bCrypt For Backend
+-Deployed Backend in Aws EC2
+
 
 <br/>
 <h4 align="center">💻 Tech Stack</h4>
@@ -38,7 +42,7 @@
 </div>
 <br/>
 
-## Let's Dive into What we have made
+## Let's Dive into What I have made
 
 ## Home Page :
 
