@@ -7,7 +7,7 @@
 
 ## Member
 
-- Suman Biswas(Team Leader) (My Linkedin profile :- https://www.linkedin.com/in/suman-biswas-158022248/)
+- Suman Biswas (My Linkedin profile :- https://www.linkedin.com/in/suman-biswas-158022248/)
   <br/>
 
 ## Some Key Notes
