@@ -13,9 +13,10 @@
 ## Some Key Notes
 
 - React + TypeScript + Vite For Frontend
-- Deployed Frontend to Aws S3
+- Deployed Frontend to AWS S3
 - Node + Express + MySql + JWT + bCrypt For Backend
-- Deployed Backend to Aws EC2
+- Deployed Backend to AWS EC2
+- Deployed MySQL to AWS RDS
 
 
 <br/>
