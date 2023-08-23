@@ -3,7 +3,7 @@
 <h3>BlogSpot is a leading blogging website. Witness the magic of storytelling unfold here, where every post is a doorway to a new dimension of thought. This Project Fully Built by me within 24 Hours.
 </h3>
 
-# Deployed URL 👉 [Click here](http://cuvette-suman.s3-website.eu-north-1.amazonaws.com/)
+# Deployed URL 👉 [Click here](http://cuvette-suman-biswas.s3-website.eu-north-1.amazonaws.com/)
 
 ## Member
 
